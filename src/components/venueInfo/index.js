@@ -46,7 +46,7 @@ const VenueInfo = () => {
                                         Event Location
                                 </div>
                                     <div className="vn_desc">
-                                        201 Speer St San Francisco CA, 20932
+                                        201 Speer St San Fran CA, 20932
                                 </div>
 
                                 </div>
